@@ -22,3 +22,36 @@ And this is what the modified parameters look like for the shelf above:
 
 ![](images/ex4.png)
 
+## Drawings
+
+The drawings I provide below will make a shelf with four 3.5"x3.5" bottom slots, each with 10" deep of usable space. The upper shelf will have 6" of exposed panel on the back. 
+
+The material is assumed to all be 1/2" plywood, with 1/4" dado slots cut to fit pieces together. 
+
+### Bottom and top panels
+
+The bottom and top panels are mirror images of one another. Note that the two outer-most dados are 3 3/4" away from the left and right edges, whereas the inner dados are 3 1/2" from one-another. 
+
+This is because the two outer-most edges of the top and bottom will be inserted 1/4" into dados in the left and right sides, which brings the final usable width of the outer slots to the same 3 1/2" as the inner slots. 
+
+The 4", 8", and 12" measurements on the right show the centerline of the 1/2" dados that need to be cut. 
+
+![](images/drawing-top-bottom.png)
+
+### Slot inserts
+
+These slot inserts are the vertical walls that define the bottom inner shelves. A total of three will be needed. 
+
+![](images/drawing-slot-inserts.png)
+
+### Back
+
+The back of the shelf is similar to the front in that it will have a series of dados into which you will insert the back edges of the top, bottom, and slot insert panels: 
+
+![](images/drawing-back.png)
+
+### Left and right sides
+
+The image below is the left side of the shelf. The right side would of course be the mirror image of this: 
+
+![](images/drawing-left-side.png)
