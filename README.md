@@ -10,6 +10,10 @@ This project was inspired by seeing lots of similar shelves available on Etsy, [
 
 ![](images/ex1.png)
 
+Here's the realworld output :)
+
+![](images/finished.jpg)
+
 You can easily adjust the size and number of slots on the lower shelf by changing the project parameters:
 
 ![](images/ex2.png)
